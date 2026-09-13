@@ -1,0 +1,1077 @@
+# Master Index — 1000 Useful Projects
+
+## AI
+
+- [0001 — AI Dashboard](projects/0001-ai-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0002 — AI Tracker](projects/0002-ai-tracker/README.md) — Track activity, status, history and trends.
+- [0003 — AI Assistant](projects/0003-ai-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0004 — AI Manager](projects/0004-ai-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0005 — AI Analyzer](projects/0005-ai-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0006 — AI Generator](projects/0006-ai-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0007 — AI Monitor](projects/0007-ai-monitor/README.md) — Monitor changes and send useful alerts.
+- [0008 — AI Planner](projects/0008-ai-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0009 — AI Search Engine](projects/0009-ai-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0010 — AI Knowledge Base](projects/0010-ai-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0011 — AI Workflow Builder](projects/0011-ai-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0012 — AI API Service](projects/0012-ai-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0013 — AI CLI](projects/0013-ai-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0014 — AI Desktop App](projects/0014-ai-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0015 — AI Mobile Companion](projects/0015-ai-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0016 — AI Browser Extension](projects/0016-ai-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0017 — AI Notifier](projects/0017-ai-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0018 — AI Scheduler](projects/0018-ai-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0019 — AI Converter](projects/0019-ai-converter/README.md) — Convert common formats safely with batch support.
+- [0020 — AI Cleaner](projects/0020-ai-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0021 — AI Organizer](projects/0021-ai-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0022 — AI Visualizer](projects/0022-ai-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0023 — AI Reporter](projects/0023-ai-reporter/README.md) — Build shareable reports from structured data.
+- [0024 — AI Template Kit](projects/0024-ai-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0025 — AI Starter Kit](projects/0025-ai-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0026 — AI Sync Tool](projects/0026-ai-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0027 — AI Backup Tool](projects/0027-ai-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0028 — AI Importer](projects/0028-ai-importer/README.md) — Import data from common formats with validation and mapping.
+- [0029 — AI Exporter](projects/0029-ai-exporter/README.md) — Export data into portable formats with presets.
+- [0030 — AI Annotator](projects/0030-ai-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0031 — AI Comparator](projects/0031-ai-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0032 — AI Recommender](projects/0032-ai-recommender/README.md) — Recommend useful options from preferences and history.
+- [0033 — AI Simulator](projects/0033-ai-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0034 — AI Sandbox](projects/0034-ai-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0035 — AI Audit Tool](projects/0035-ai-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0036 — AI Form Builder](projects/0036-ai-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0037 — AI Portal](projects/0037-ai-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0038 — AI Queue Manager](projects/0038-ai-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0039 — AI Batch Processor](projects/0039-ai-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0040 — AI Insight Feed](projects/0040-ai-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Automation
+
+- [0041 — Automation Dashboard](projects/0041-automation-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0042 — Automation Tracker](projects/0042-automation-tracker/README.md) — Track activity, status, history and trends.
+- [0043 — Automation Assistant](projects/0043-automation-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0044 — Automation Manager](projects/0044-automation-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0045 — Automation Analyzer](projects/0045-automation-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0046 — Automation Generator](projects/0046-automation-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0047 — Automation Monitor](projects/0047-automation-monitor/README.md) — Monitor changes and send useful alerts.
+- [0048 — Automation Planner](projects/0048-automation-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0049 — Automation Search Engine](projects/0049-automation-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0050 — Automation Knowledge Base](projects/0050-automation-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0051 — Automation Workflow Builder](projects/0051-automation-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0052 — Automation API Service](projects/0052-automation-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0053 — Automation CLI](projects/0053-automation-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0054 — Automation Desktop App](projects/0054-automation-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0055 — Automation Mobile Companion](projects/0055-automation-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0056 — Automation Browser Extension](projects/0056-automation-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0057 — Automation Notifier](projects/0057-automation-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0058 — Automation Scheduler](projects/0058-automation-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0059 — Automation Converter](projects/0059-automation-converter/README.md) — Convert common formats safely with batch support.
+- [0060 — Automation Cleaner](projects/0060-automation-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0061 — Automation Organizer](projects/0061-automation-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0062 — Automation Visualizer](projects/0062-automation-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0063 — Automation Reporter](projects/0063-automation-reporter/README.md) — Build shareable reports from structured data.
+- [0064 — Automation Template Kit](projects/0064-automation-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0065 — Automation Starter Kit](projects/0065-automation-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0066 — Automation Sync Tool](projects/0066-automation-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0067 — Automation Backup Tool](projects/0067-automation-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0068 — Automation Importer](projects/0068-automation-importer/README.md) — Import data from common formats with validation and mapping.
+- [0069 — Automation Exporter](projects/0069-automation-exporter/README.md) — Export data into portable formats with presets.
+- [0070 — Automation Annotator](projects/0070-automation-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0071 — Automation Comparator](projects/0071-automation-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0072 — Automation Recommender](projects/0072-automation-recommender/README.md) — Recommend useful options from preferences and history.
+- [0073 — Automation Simulator](projects/0073-automation-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0074 — Automation Sandbox](projects/0074-automation-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0075 — Automation Audit Tool](projects/0075-automation-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0076 — Automation Form Builder](projects/0076-automation-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0077 — Automation Portal](projects/0077-automation-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0078 — Automation Queue Manager](projects/0078-automation-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0079 — Automation Batch Processor](projects/0079-automation-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0080 — Automation Insight Feed](projects/0080-automation-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Developer Tools
+
+- [0081 — Developer Tools Dashboard](projects/0081-devtools-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0082 — Developer Tools Tracker](projects/0082-devtools-tracker/README.md) — Track activity, status, history and trends.
+- [0083 — Developer Tools Assistant](projects/0083-devtools-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0084 — Developer Tools Manager](projects/0084-devtools-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0085 — Developer Tools Analyzer](projects/0085-devtools-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0086 — Developer Tools Generator](projects/0086-devtools-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0087 — Developer Tools Monitor](projects/0087-devtools-monitor/README.md) — Monitor changes and send useful alerts.
+- [0088 — Developer Tools Planner](projects/0088-devtools-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0089 — Developer Tools Search Engine](projects/0089-devtools-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0090 — Developer Tools Knowledge Base](projects/0090-devtools-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0091 — Developer Tools Workflow Builder](projects/0091-devtools-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0092 — Developer Tools API Service](projects/0092-devtools-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0093 — Developer Tools CLI](projects/0093-devtools-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0094 — Developer Tools Desktop App](projects/0094-devtools-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0095 — Developer Tools Mobile Companion](projects/0095-devtools-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0096 — Developer Tools Browser Extension](projects/0096-devtools-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0097 — Developer Tools Notifier](projects/0097-devtools-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0098 — Developer Tools Scheduler](projects/0098-devtools-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0099 — Developer Tools Converter](projects/0099-devtools-converter/README.md) — Convert common formats safely with batch support.
+- [0100 — Developer Tools Cleaner](projects/0100-devtools-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0101 — Developer Tools Organizer](projects/0101-devtools-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0102 — Developer Tools Visualizer](projects/0102-devtools-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0103 — Developer Tools Reporter](projects/0103-devtools-reporter/README.md) — Build shareable reports from structured data.
+- [0104 — Developer Tools Template Kit](projects/0104-devtools-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0105 — Developer Tools Starter Kit](projects/0105-devtools-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0106 — Developer Tools Sync Tool](projects/0106-devtools-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0107 — Developer Tools Backup Tool](projects/0107-devtools-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0108 — Developer Tools Importer](projects/0108-devtools-importer/README.md) — Import data from common formats with validation and mapping.
+- [0109 — Developer Tools Exporter](projects/0109-devtools-exporter/README.md) — Export data into portable formats with presets.
+- [0110 — Developer Tools Annotator](projects/0110-devtools-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0111 — Developer Tools Comparator](projects/0111-devtools-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0112 — Developer Tools Recommender](projects/0112-devtools-recommender/README.md) — Recommend useful options from preferences and history.
+- [0113 — Developer Tools Simulator](projects/0113-devtools-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0114 — Developer Tools Sandbox](projects/0114-devtools-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0115 — Developer Tools Audit Tool](projects/0115-devtools-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0116 — Developer Tools Form Builder](projects/0116-devtools-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0117 — Developer Tools Portal](projects/0117-devtools-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0118 — Developer Tools Queue Manager](projects/0118-devtools-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0119 — Developer Tools Batch Processor](projects/0119-devtools-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0120 — Developer Tools Insight Feed](projects/0120-devtools-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Productivity
+
+- [0121 — Productivity Dashboard](projects/0121-productivity-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0122 — Productivity Tracker](projects/0122-productivity-tracker/README.md) — Track activity, status, history and trends.
+- [0123 — Productivity Assistant](projects/0123-productivity-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0124 — Productivity Manager](projects/0124-productivity-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0125 — Productivity Analyzer](projects/0125-productivity-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0126 — Productivity Generator](projects/0126-productivity-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0127 — Productivity Monitor](projects/0127-productivity-monitor/README.md) — Monitor changes and send useful alerts.
+- [0128 — Productivity Planner](projects/0128-productivity-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0129 — Productivity Search Engine](projects/0129-productivity-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0130 — Productivity Knowledge Base](projects/0130-productivity-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0131 — Productivity Workflow Builder](projects/0131-productivity-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0132 — Productivity API Service](projects/0132-productivity-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0133 — Productivity CLI](projects/0133-productivity-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0134 — Productivity Desktop App](projects/0134-productivity-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0135 — Productivity Mobile Companion](projects/0135-productivity-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0136 — Productivity Browser Extension](projects/0136-productivity-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0137 — Productivity Notifier](projects/0137-productivity-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0138 — Productivity Scheduler](projects/0138-productivity-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0139 — Productivity Converter](projects/0139-productivity-converter/README.md) — Convert common formats safely with batch support.
+- [0140 — Productivity Cleaner](projects/0140-productivity-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0141 — Productivity Organizer](projects/0141-productivity-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0142 — Productivity Visualizer](projects/0142-productivity-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0143 — Productivity Reporter](projects/0143-productivity-reporter/README.md) — Build shareable reports from structured data.
+- [0144 — Productivity Template Kit](projects/0144-productivity-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0145 — Productivity Starter Kit](projects/0145-productivity-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0146 — Productivity Sync Tool](projects/0146-productivity-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0147 — Productivity Backup Tool](projects/0147-productivity-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0148 — Productivity Importer](projects/0148-productivity-importer/README.md) — Import data from common formats with validation and mapping.
+- [0149 — Productivity Exporter](projects/0149-productivity-exporter/README.md) — Export data into portable formats with presets.
+- [0150 — Productivity Annotator](projects/0150-productivity-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0151 — Productivity Comparator](projects/0151-productivity-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0152 — Productivity Recommender](projects/0152-productivity-recommender/README.md) — Recommend useful options from preferences and history.
+- [0153 — Productivity Simulator](projects/0153-productivity-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0154 — Productivity Sandbox](projects/0154-productivity-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0155 — Productivity Audit Tool](projects/0155-productivity-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0156 — Productivity Form Builder](projects/0156-productivity-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0157 — Productivity Portal](projects/0157-productivity-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0158 — Productivity Queue Manager](projects/0158-productivity-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0159 — Productivity Batch Processor](projects/0159-productivity-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0160 — Productivity Insight Feed](projects/0160-productivity-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Data
+
+- [0161 — Data Dashboard](projects/0161-data-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0162 — Data Tracker](projects/0162-data-tracker/README.md) — Track activity, status, history and trends.
+- [0163 — Data Assistant](projects/0163-data-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0164 — Data Manager](projects/0164-data-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0165 — Data Analyzer](projects/0165-data-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0166 — Data Generator](projects/0166-data-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0167 — Data Monitor](projects/0167-data-monitor/README.md) — Monitor changes and send useful alerts.
+- [0168 — Data Planner](projects/0168-data-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0169 — Data Search Engine](projects/0169-data-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0170 — Data Knowledge Base](projects/0170-data-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0171 — Data Workflow Builder](projects/0171-data-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0172 — Data API Service](projects/0172-data-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0173 — Data CLI](projects/0173-data-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0174 — Data Desktop App](projects/0174-data-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0175 — Data Mobile Companion](projects/0175-data-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0176 — Data Browser Extension](projects/0176-data-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0177 — Data Notifier](projects/0177-data-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0178 — Data Scheduler](projects/0178-data-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0179 — Data Converter](projects/0179-data-converter/README.md) — Convert common formats safely with batch support.
+- [0180 — Data Cleaner](projects/0180-data-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0181 — Data Organizer](projects/0181-data-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0182 — Data Visualizer](projects/0182-data-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0183 — Data Reporter](projects/0183-data-reporter/README.md) — Build shareable reports from structured data.
+- [0184 — Data Template Kit](projects/0184-data-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0185 — Data Starter Kit](projects/0185-data-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0186 — Data Sync Tool](projects/0186-data-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0187 — Data Backup Tool](projects/0187-data-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0188 — Data Importer](projects/0188-data-importer/README.md) — Import data from common formats with validation and mapping.
+- [0189 — Data Exporter](projects/0189-data-exporter/README.md) — Export data into portable formats with presets.
+- [0190 — Data Annotator](projects/0190-data-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0191 — Data Comparator](projects/0191-data-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0192 — Data Recommender](projects/0192-data-recommender/README.md) — Recommend useful options from preferences and history.
+- [0193 — Data Simulator](projects/0193-data-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0194 — Data Sandbox](projects/0194-data-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0195 — Data Audit Tool](projects/0195-data-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0196 — Data Form Builder](projects/0196-data-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0197 — Data Portal](projects/0197-data-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0198 — Data Queue Manager](projects/0198-data-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0199 — Data Batch Processor](projects/0199-data-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0200 — Data Insight Feed](projects/0200-data-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Cybersecurity
+
+- [0201 — Cybersecurity Dashboard](projects/0201-security-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0202 — Cybersecurity Tracker](projects/0202-security-tracker/README.md) — Track activity, status, history and trends.
+- [0203 — Cybersecurity Assistant](projects/0203-security-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0204 — Cybersecurity Manager](projects/0204-security-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0205 — Cybersecurity Analyzer](projects/0205-security-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0206 — Cybersecurity Generator](projects/0206-security-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0207 — Cybersecurity Monitor](projects/0207-security-monitor/README.md) — Monitor changes and send useful alerts.
+- [0208 — Cybersecurity Planner](projects/0208-security-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0209 — Cybersecurity Search Engine](projects/0209-security-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0210 — Cybersecurity Knowledge Base](projects/0210-security-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0211 — Cybersecurity Workflow Builder](projects/0211-security-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0212 — Cybersecurity API Service](projects/0212-security-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0213 — Cybersecurity CLI](projects/0213-security-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0214 — Cybersecurity Desktop App](projects/0214-security-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0215 — Cybersecurity Mobile Companion](projects/0215-security-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0216 — Cybersecurity Browser Extension](projects/0216-security-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0217 — Cybersecurity Notifier](projects/0217-security-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0218 — Cybersecurity Scheduler](projects/0218-security-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0219 — Cybersecurity Converter](projects/0219-security-converter/README.md) — Convert common formats safely with batch support.
+- [0220 — Cybersecurity Cleaner](projects/0220-security-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0221 — Cybersecurity Organizer](projects/0221-security-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0222 — Cybersecurity Visualizer](projects/0222-security-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0223 — Cybersecurity Reporter](projects/0223-security-reporter/README.md) — Build shareable reports from structured data.
+- [0224 — Cybersecurity Template Kit](projects/0224-security-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0225 — Cybersecurity Starter Kit](projects/0225-security-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0226 — Cybersecurity Sync Tool](projects/0226-security-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0227 — Cybersecurity Backup Tool](projects/0227-security-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0228 — Cybersecurity Importer](projects/0228-security-importer/README.md) — Import data from common formats with validation and mapping.
+- [0229 — Cybersecurity Exporter](projects/0229-security-exporter/README.md) — Export data into portable formats with presets.
+- [0230 — Cybersecurity Annotator](projects/0230-security-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0231 — Cybersecurity Comparator](projects/0231-security-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0232 — Cybersecurity Recommender](projects/0232-security-recommender/README.md) — Recommend useful options from preferences and history.
+- [0233 — Cybersecurity Simulator](projects/0233-security-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0234 — Cybersecurity Sandbox](projects/0234-security-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0235 — Cybersecurity Audit Tool](projects/0235-security-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0236 — Cybersecurity Form Builder](projects/0236-security-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0237 — Cybersecurity Portal](projects/0237-security-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0238 — Cybersecurity Queue Manager](projects/0238-security-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0239 — Cybersecurity Batch Processor](projects/0239-security-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0240 — Cybersecurity Insight Feed](projects/0240-security-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Education
+
+- [0241 — Education Dashboard](projects/0241-education-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0242 — Education Tracker](projects/0242-education-tracker/README.md) — Track activity, status, history and trends.
+- [0243 — Education Assistant](projects/0243-education-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0244 — Education Manager](projects/0244-education-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0245 — Education Analyzer](projects/0245-education-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0246 — Education Generator](projects/0246-education-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0247 — Education Monitor](projects/0247-education-monitor/README.md) — Monitor changes and send useful alerts.
+- [0248 — Education Planner](projects/0248-education-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0249 — Education Search Engine](projects/0249-education-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0250 — Education Knowledge Base](projects/0250-education-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0251 — Education Workflow Builder](projects/0251-education-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0252 — Education API Service](projects/0252-education-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0253 — Education CLI](projects/0253-education-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0254 — Education Desktop App](projects/0254-education-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0255 — Education Mobile Companion](projects/0255-education-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0256 — Education Browser Extension](projects/0256-education-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0257 — Education Notifier](projects/0257-education-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0258 — Education Scheduler](projects/0258-education-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0259 — Education Converter](projects/0259-education-converter/README.md) — Convert common formats safely with batch support.
+- [0260 — Education Cleaner](projects/0260-education-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0261 — Education Organizer](projects/0261-education-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0262 — Education Visualizer](projects/0262-education-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0263 — Education Reporter](projects/0263-education-reporter/README.md) — Build shareable reports from structured data.
+- [0264 — Education Template Kit](projects/0264-education-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0265 — Education Starter Kit](projects/0265-education-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0266 — Education Sync Tool](projects/0266-education-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0267 — Education Backup Tool](projects/0267-education-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0268 — Education Importer](projects/0268-education-importer/README.md) — Import data from common formats with validation and mapping.
+- [0269 — Education Exporter](projects/0269-education-exporter/README.md) — Export data into portable formats with presets.
+- [0270 — Education Annotator](projects/0270-education-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0271 — Education Comparator](projects/0271-education-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0272 — Education Recommender](projects/0272-education-recommender/README.md) — Recommend useful options from preferences and history.
+- [0273 — Education Simulator](projects/0273-education-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0274 — Education Sandbox](projects/0274-education-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0275 — Education Audit Tool](projects/0275-education-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0276 — Education Form Builder](projects/0276-education-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0277 — Education Portal](projects/0277-education-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0278 — Education Queue Manager](projects/0278-education-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0279 — Education Batch Processor](projects/0279-education-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0280 — Education Insight Feed](projects/0280-education-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Finance
+
+- [0281 — Finance Dashboard](projects/0281-finance-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0282 — Finance Tracker](projects/0282-finance-tracker/README.md) — Track activity, status, history and trends.
+- [0283 — Finance Assistant](projects/0283-finance-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0284 — Finance Manager](projects/0284-finance-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0285 — Finance Analyzer](projects/0285-finance-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0286 — Finance Generator](projects/0286-finance-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0287 — Finance Monitor](projects/0287-finance-monitor/README.md) — Monitor changes and send useful alerts.
+- [0288 — Finance Planner](projects/0288-finance-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0289 — Finance Search Engine](projects/0289-finance-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0290 — Finance Knowledge Base](projects/0290-finance-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0291 — Finance Workflow Builder](projects/0291-finance-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0292 — Finance API Service](projects/0292-finance-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0293 — Finance CLI](projects/0293-finance-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0294 — Finance Desktop App](projects/0294-finance-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0295 — Finance Mobile Companion](projects/0295-finance-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0296 — Finance Browser Extension](projects/0296-finance-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0297 — Finance Notifier](projects/0297-finance-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0298 — Finance Scheduler](projects/0298-finance-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0299 — Finance Converter](projects/0299-finance-converter/README.md) — Convert common formats safely with batch support.
+- [0300 — Finance Cleaner](projects/0300-finance-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0301 — Finance Organizer](projects/0301-finance-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0302 — Finance Visualizer](projects/0302-finance-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0303 — Finance Reporter](projects/0303-finance-reporter/README.md) — Build shareable reports from structured data.
+- [0304 — Finance Template Kit](projects/0304-finance-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0305 — Finance Starter Kit](projects/0305-finance-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0306 — Finance Sync Tool](projects/0306-finance-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0307 — Finance Backup Tool](projects/0307-finance-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0308 — Finance Importer](projects/0308-finance-importer/README.md) — Import data from common formats with validation and mapping.
+- [0309 — Finance Exporter](projects/0309-finance-exporter/README.md) — Export data into portable formats with presets.
+- [0310 — Finance Annotator](projects/0310-finance-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0311 — Finance Comparator](projects/0311-finance-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0312 — Finance Recommender](projects/0312-finance-recommender/README.md) — Recommend useful options from preferences and history.
+- [0313 — Finance Simulator](projects/0313-finance-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0314 — Finance Sandbox](projects/0314-finance-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0315 — Finance Audit Tool](projects/0315-finance-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0316 — Finance Form Builder](projects/0316-finance-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0317 — Finance Portal](projects/0317-finance-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0318 — Finance Queue Manager](projects/0318-finance-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0319 — Finance Batch Processor](projects/0319-finance-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0320 — Finance Insight Feed](projects/0320-finance-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Health & Fitness
+
+- [0321 — Health & Fitness Dashboard](projects/0321-health-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0322 — Health & Fitness Tracker](projects/0322-health-tracker/README.md) — Track activity, status, history and trends.
+- [0323 — Health & Fitness Assistant](projects/0323-health-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0324 — Health & Fitness Manager](projects/0324-health-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0325 — Health & Fitness Analyzer](projects/0325-health-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0326 — Health & Fitness Generator](projects/0326-health-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0327 — Health & Fitness Monitor](projects/0327-health-monitor/README.md) — Monitor changes and send useful alerts.
+- [0328 — Health & Fitness Planner](projects/0328-health-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0329 — Health & Fitness Search Engine](projects/0329-health-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0330 — Health & Fitness Knowledge Base](projects/0330-health-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0331 — Health & Fitness Workflow Builder](projects/0331-health-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0332 — Health & Fitness API Service](projects/0332-health-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0333 — Health & Fitness CLI](projects/0333-health-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0334 — Health & Fitness Desktop App](projects/0334-health-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0335 — Health & Fitness Mobile Companion](projects/0335-health-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0336 — Health & Fitness Browser Extension](projects/0336-health-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0337 — Health & Fitness Notifier](projects/0337-health-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0338 — Health & Fitness Scheduler](projects/0338-health-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0339 — Health & Fitness Converter](projects/0339-health-converter/README.md) — Convert common formats safely with batch support.
+- [0340 — Health & Fitness Cleaner](projects/0340-health-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0341 — Health & Fitness Organizer](projects/0341-health-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0342 — Health & Fitness Visualizer](projects/0342-health-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0343 — Health & Fitness Reporter](projects/0343-health-reporter/README.md) — Build shareable reports from structured data.
+- [0344 — Health & Fitness Template Kit](projects/0344-health-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0345 — Health & Fitness Starter Kit](projects/0345-health-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0346 — Health & Fitness Sync Tool](projects/0346-health-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0347 — Health & Fitness Backup Tool](projects/0347-health-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0348 — Health & Fitness Importer](projects/0348-health-importer/README.md) — Import data from common formats with validation and mapping.
+- [0349 — Health & Fitness Exporter](projects/0349-health-exporter/README.md) — Export data into portable formats with presets.
+- [0350 — Health & Fitness Annotator](projects/0350-health-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0351 — Health & Fitness Comparator](projects/0351-health-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0352 — Health & Fitness Recommender](projects/0352-health-recommender/README.md) — Recommend useful options from preferences and history.
+- [0353 — Health & Fitness Simulator](projects/0353-health-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0354 — Health & Fitness Sandbox](projects/0354-health-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0355 — Health & Fitness Audit Tool](projects/0355-health-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0356 — Health & Fitness Form Builder](projects/0356-health-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0357 — Health & Fitness Portal](projects/0357-health-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0358 — Health & Fitness Queue Manager](projects/0358-health-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0359 — Health & Fitness Batch Processor](projects/0359-health-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0360 — Health & Fitness Insight Feed](projects/0360-health-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## E-commerce
+
+- [0361 — E-commerce Dashboard](projects/0361-ecommerce-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0362 — E-commerce Tracker](projects/0362-ecommerce-tracker/README.md) — Track activity, status, history and trends.
+- [0363 — E-commerce Assistant](projects/0363-ecommerce-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0364 — E-commerce Manager](projects/0364-ecommerce-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0365 — E-commerce Analyzer](projects/0365-ecommerce-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0366 — E-commerce Generator](projects/0366-ecommerce-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0367 — E-commerce Monitor](projects/0367-ecommerce-monitor/README.md) — Monitor changes and send useful alerts.
+- [0368 — E-commerce Planner](projects/0368-ecommerce-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0369 — E-commerce Search Engine](projects/0369-ecommerce-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0370 — E-commerce Knowledge Base](projects/0370-ecommerce-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0371 — E-commerce Workflow Builder](projects/0371-ecommerce-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0372 — E-commerce API Service](projects/0372-ecommerce-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0373 — E-commerce CLI](projects/0373-ecommerce-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0374 — E-commerce Desktop App](projects/0374-ecommerce-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0375 — E-commerce Mobile Companion](projects/0375-ecommerce-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0376 — E-commerce Browser Extension](projects/0376-ecommerce-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0377 — E-commerce Notifier](projects/0377-ecommerce-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0378 — E-commerce Scheduler](projects/0378-ecommerce-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0379 — E-commerce Converter](projects/0379-ecommerce-converter/README.md) — Convert common formats safely with batch support.
+- [0380 — E-commerce Cleaner](projects/0380-ecommerce-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0381 — E-commerce Organizer](projects/0381-ecommerce-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0382 — E-commerce Visualizer](projects/0382-ecommerce-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0383 — E-commerce Reporter](projects/0383-ecommerce-reporter/README.md) — Build shareable reports from structured data.
+- [0384 — E-commerce Template Kit](projects/0384-ecommerce-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0385 — E-commerce Starter Kit](projects/0385-ecommerce-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0386 — E-commerce Sync Tool](projects/0386-ecommerce-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0387 — E-commerce Backup Tool](projects/0387-ecommerce-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0388 — E-commerce Importer](projects/0388-ecommerce-importer/README.md) — Import data from common formats with validation and mapping.
+- [0389 — E-commerce Exporter](projects/0389-ecommerce-exporter/README.md) — Export data into portable formats with presets.
+- [0390 — E-commerce Annotator](projects/0390-ecommerce-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0391 — E-commerce Comparator](projects/0391-ecommerce-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0392 — E-commerce Recommender](projects/0392-ecommerce-recommender/README.md) — Recommend useful options from preferences and history.
+- [0393 — E-commerce Simulator](projects/0393-ecommerce-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0394 — E-commerce Sandbox](projects/0394-ecommerce-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0395 — E-commerce Audit Tool](projects/0395-ecommerce-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0396 — E-commerce Form Builder](projects/0396-ecommerce-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0397 — E-commerce Portal](projects/0397-ecommerce-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0398 — E-commerce Queue Manager](projects/0398-ecommerce-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0399 — E-commerce Batch Processor](projects/0399-ecommerce-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0400 — E-commerce Insight Feed](projects/0400-ecommerce-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Content Creation
+
+- [0401 — Content Creation Dashboard](projects/0401-content-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0402 — Content Creation Tracker](projects/0402-content-tracker/README.md) — Track activity, status, history and trends.
+- [0403 — Content Creation Assistant](projects/0403-content-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0404 — Content Creation Manager](projects/0404-content-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0405 — Content Creation Analyzer](projects/0405-content-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0406 — Content Creation Generator](projects/0406-content-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0407 — Content Creation Monitor](projects/0407-content-monitor/README.md) — Monitor changes and send useful alerts.
+- [0408 — Content Creation Planner](projects/0408-content-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0409 — Content Creation Search Engine](projects/0409-content-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0410 — Content Creation Knowledge Base](projects/0410-content-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0411 — Content Creation Workflow Builder](projects/0411-content-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0412 — Content Creation API Service](projects/0412-content-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0413 — Content Creation CLI](projects/0413-content-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0414 — Content Creation Desktop App](projects/0414-content-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0415 — Content Creation Mobile Companion](projects/0415-content-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0416 — Content Creation Browser Extension](projects/0416-content-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0417 — Content Creation Notifier](projects/0417-content-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0418 — Content Creation Scheduler](projects/0418-content-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0419 — Content Creation Converter](projects/0419-content-converter/README.md) — Convert common formats safely with batch support.
+- [0420 — Content Creation Cleaner](projects/0420-content-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0421 — Content Creation Organizer](projects/0421-content-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0422 — Content Creation Visualizer](projects/0422-content-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0423 — Content Creation Reporter](projects/0423-content-reporter/README.md) — Build shareable reports from structured data.
+- [0424 — Content Creation Template Kit](projects/0424-content-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0425 — Content Creation Starter Kit](projects/0425-content-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0426 — Content Creation Sync Tool](projects/0426-content-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0427 — Content Creation Backup Tool](projects/0427-content-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0428 — Content Creation Importer](projects/0428-content-importer/README.md) — Import data from common formats with validation and mapping.
+- [0429 — Content Creation Exporter](projects/0429-content-exporter/README.md) — Export data into portable formats with presets.
+- [0430 — Content Creation Annotator](projects/0430-content-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0431 — Content Creation Comparator](projects/0431-content-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0432 — Content Creation Recommender](projects/0432-content-recommender/README.md) — Recommend useful options from preferences and history.
+- [0433 — Content Creation Simulator](projects/0433-content-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0434 — Content Creation Sandbox](projects/0434-content-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0435 — Content Creation Audit Tool](projects/0435-content-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0436 — Content Creation Form Builder](projects/0436-content-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0437 — Content Creation Portal](projects/0437-content-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0438 — Content Creation Queue Manager](projects/0438-content-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0439 — Content Creation Batch Processor](projects/0439-content-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0440 — Content Creation Insight Feed](projects/0440-content-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Social Media
+
+- [0441 — Social Media Dashboard](projects/0441-social-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0442 — Social Media Tracker](projects/0442-social-tracker/README.md) — Track activity, status, history and trends.
+- [0443 — Social Media Assistant](projects/0443-social-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0444 — Social Media Manager](projects/0444-social-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0445 — Social Media Analyzer](projects/0445-social-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0446 — Social Media Generator](projects/0446-social-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0447 — Social Media Monitor](projects/0447-social-monitor/README.md) — Monitor changes and send useful alerts.
+- [0448 — Social Media Planner](projects/0448-social-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0449 — Social Media Search Engine](projects/0449-social-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0450 — Social Media Knowledge Base](projects/0450-social-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0451 — Social Media Workflow Builder](projects/0451-social-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0452 — Social Media API Service](projects/0452-social-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0453 — Social Media CLI](projects/0453-social-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0454 — Social Media Desktop App](projects/0454-social-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0455 — Social Media Mobile Companion](projects/0455-social-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0456 — Social Media Browser Extension](projects/0456-social-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0457 — Social Media Notifier](projects/0457-social-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0458 — Social Media Scheduler](projects/0458-social-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0459 — Social Media Converter](projects/0459-social-converter/README.md) — Convert common formats safely with batch support.
+- [0460 — Social Media Cleaner](projects/0460-social-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0461 — Social Media Organizer](projects/0461-social-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0462 — Social Media Visualizer](projects/0462-social-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0463 — Social Media Reporter](projects/0463-social-reporter/README.md) — Build shareable reports from structured data.
+- [0464 — Social Media Template Kit](projects/0464-social-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0465 — Social Media Starter Kit](projects/0465-social-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0466 — Social Media Sync Tool](projects/0466-social-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0467 — Social Media Backup Tool](projects/0467-social-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0468 — Social Media Importer](projects/0468-social-importer/README.md) — Import data from common formats with validation and mapping.
+- [0469 — Social Media Exporter](projects/0469-social-exporter/README.md) — Export data into portable formats with presets.
+- [0470 — Social Media Annotator](projects/0470-social-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0471 — Social Media Comparator](projects/0471-social-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0472 — Social Media Recommender](projects/0472-social-recommender/README.md) — Recommend useful options from preferences and history.
+- [0473 — Social Media Simulator](projects/0473-social-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0474 — Social Media Sandbox](projects/0474-social-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0475 — Social Media Audit Tool](projects/0475-social-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0476 — Social Media Form Builder](projects/0476-social-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0477 — Social Media Portal](projects/0477-social-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0478 — Social Media Queue Manager](projects/0478-social-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0479 — Social Media Batch Processor](projects/0479-social-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0480 — Social Media Insight Feed](projects/0480-social-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Local-first Apps
+
+- [0481 — Local-first Apps Dashboard](projects/0481-localfirst-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0482 — Local-first Apps Tracker](projects/0482-localfirst-tracker/README.md) — Track activity, status, history and trends.
+- [0483 — Local-first Apps Assistant](projects/0483-localfirst-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0484 — Local-first Apps Manager](projects/0484-localfirst-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0485 — Local-first Apps Analyzer](projects/0485-localfirst-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0486 — Local-first Apps Generator](projects/0486-localfirst-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0487 — Local-first Apps Monitor](projects/0487-localfirst-monitor/README.md) — Monitor changes and send useful alerts.
+- [0488 — Local-first Apps Planner](projects/0488-localfirst-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0489 — Local-first Apps Search Engine](projects/0489-localfirst-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0490 — Local-first Apps Knowledge Base](projects/0490-localfirst-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0491 — Local-first Apps Workflow Builder](projects/0491-localfirst-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0492 — Local-first Apps API Service](projects/0492-localfirst-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0493 — Local-first Apps CLI](projects/0493-localfirst-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0494 — Local-first Apps Desktop App](projects/0494-localfirst-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0495 — Local-first Apps Mobile Companion](projects/0495-localfirst-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0496 — Local-first Apps Browser Extension](projects/0496-localfirst-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0497 — Local-first Apps Notifier](projects/0497-localfirst-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0498 — Local-first Apps Scheduler](projects/0498-localfirst-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0499 — Local-first Apps Converter](projects/0499-localfirst-converter/README.md) — Convert common formats safely with batch support.
+- [0500 — Local-first Apps Cleaner](projects/0500-localfirst-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0501 — Local-first Apps Organizer](projects/0501-localfirst-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0502 — Local-first Apps Visualizer](projects/0502-localfirst-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0503 — Local-first Apps Reporter](projects/0503-localfirst-reporter/README.md) — Build shareable reports from structured data.
+- [0504 — Local-first Apps Template Kit](projects/0504-localfirst-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0505 — Local-first Apps Starter Kit](projects/0505-localfirst-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0506 — Local-first Apps Sync Tool](projects/0506-localfirst-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0507 — Local-first Apps Backup Tool](projects/0507-localfirst-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0508 — Local-first Apps Importer](projects/0508-localfirst-importer/README.md) — Import data from common formats with validation and mapping.
+- [0509 — Local-first Apps Exporter](projects/0509-localfirst-exporter/README.md) — Export data into portable formats with presets.
+- [0510 — Local-first Apps Annotator](projects/0510-localfirst-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0511 — Local-first Apps Comparator](projects/0511-localfirst-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0512 — Local-first Apps Recommender](projects/0512-localfirst-recommender/README.md) — Recommend useful options from preferences and history.
+- [0513 — Local-first Apps Simulator](projects/0513-localfirst-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0514 — Local-first Apps Sandbox](projects/0514-localfirst-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0515 — Local-first Apps Audit Tool](projects/0515-localfirst-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0516 — Local-first Apps Form Builder](projects/0516-localfirst-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0517 — Local-first Apps Portal](projects/0517-localfirst-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0518 — Local-first Apps Queue Manager](projects/0518-localfirst-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0519 — Local-first Apps Batch Processor](projects/0519-localfirst-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0520 — Local-first Apps Insight Feed](projects/0520-localfirst-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Self-hosted Tools
+
+- [0521 — Self-hosted Tools Dashboard](projects/0521-selfhosted-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0522 — Self-hosted Tools Tracker](projects/0522-selfhosted-tracker/README.md) — Track activity, status, history and trends.
+- [0523 — Self-hosted Tools Assistant](projects/0523-selfhosted-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0524 — Self-hosted Tools Manager](projects/0524-selfhosted-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0525 — Self-hosted Tools Analyzer](projects/0525-selfhosted-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0526 — Self-hosted Tools Generator](projects/0526-selfhosted-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0527 — Self-hosted Tools Monitor](projects/0527-selfhosted-monitor/README.md) — Monitor changes and send useful alerts.
+- [0528 — Self-hosted Tools Planner](projects/0528-selfhosted-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0529 — Self-hosted Tools Search Engine](projects/0529-selfhosted-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0530 — Self-hosted Tools Knowledge Base](projects/0530-selfhosted-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0531 — Self-hosted Tools Workflow Builder](projects/0531-selfhosted-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0532 — Self-hosted Tools API Service](projects/0532-selfhosted-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0533 — Self-hosted Tools CLI](projects/0533-selfhosted-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0534 — Self-hosted Tools Desktop App](projects/0534-selfhosted-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0535 — Self-hosted Tools Mobile Companion](projects/0535-selfhosted-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0536 — Self-hosted Tools Browser Extension](projects/0536-selfhosted-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0537 — Self-hosted Tools Notifier](projects/0537-selfhosted-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0538 — Self-hosted Tools Scheduler](projects/0538-selfhosted-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0539 — Self-hosted Tools Converter](projects/0539-selfhosted-converter/README.md) — Convert common formats safely with batch support.
+- [0540 — Self-hosted Tools Cleaner](projects/0540-selfhosted-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0541 — Self-hosted Tools Organizer](projects/0541-selfhosted-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0542 — Self-hosted Tools Visualizer](projects/0542-selfhosted-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0543 — Self-hosted Tools Reporter](projects/0543-selfhosted-reporter/README.md) — Build shareable reports from structured data.
+- [0544 — Self-hosted Tools Template Kit](projects/0544-selfhosted-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0545 — Self-hosted Tools Starter Kit](projects/0545-selfhosted-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0546 — Self-hosted Tools Sync Tool](projects/0546-selfhosted-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0547 — Self-hosted Tools Backup Tool](projects/0547-selfhosted-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0548 — Self-hosted Tools Importer](projects/0548-selfhosted-importer/README.md) — Import data from common formats with validation and mapping.
+- [0549 — Self-hosted Tools Exporter](projects/0549-selfhosted-exporter/README.md) — Export data into portable formats with presets.
+- [0550 — Self-hosted Tools Annotator](projects/0550-selfhosted-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0551 — Self-hosted Tools Comparator](projects/0551-selfhosted-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0552 — Self-hosted Tools Recommender](projects/0552-selfhosted-recommender/README.md) — Recommend useful options from preferences and history.
+- [0553 — Self-hosted Tools Simulator](projects/0553-selfhosted-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0554 — Self-hosted Tools Sandbox](projects/0554-selfhosted-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0555 — Self-hosted Tools Audit Tool](projects/0555-selfhosted-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0556 — Self-hosted Tools Form Builder](projects/0556-selfhosted-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0557 — Self-hosted Tools Portal](projects/0557-selfhosted-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0558 — Self-hosted Tools Queue Manager](projects/0558-selfhosted-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0559 — Self-hosted Tools Batch Processor](projects/0559-selfhosted-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0560 — Self-hosted Tools Insight Feed](projects/0560-selfhosted-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## APIs
+
+- [0561 — APIs Dashboard](projects/0561-api-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0562 — APIs Tracker](projects/0562-api-tracker/README.md) — Track activity, status, history and trends.
+- [0563 — APIs Assistant](projects/0563-api-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0564 — APIs Manager](projects/0564-api-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0565 — APIs Analyzer](projects/0565-api-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0566 — APIs Generator](projects/0566-api-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0567 — APIs Monitor](projects/0567-api-monitor/README.md) — Monitor changes and send useful alerts.
+- [0568 — APIs Planner](projects/0568-api-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0569 — APIs Search Engine](projects/0569-api-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0570 — APIs Knowledge Base](projects/0570-api-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0571 — APIs Workflow Builder](projects/0571-api-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0572 — APIs API Service](projects/0572-api-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0573 — APIs CLI](projects/0573-api-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0574 — APIs Desktop App](projects/0574-api-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0575 — APIs Mobile Companion](projects/0575-api-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0576 — APIs Browser Extension](projects/0576-api-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0577 — APIs Notifier](projects/0577-api-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0578 — APIs Scheduler](projects/0578-api-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0579 — APIs Converter](projects/0579-api-converter/README.md) — Convert common formats safely with batch support.
+- [0580 — APIs Cleaner](projects/0580-api-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0581 — APIs Organizer](projects/0581-api-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0582 — APIs Visualizer](projects/0582-api-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0583 — APIs Reporter](projects/0583-api-reporter/README.md) — Build shareable reports from structured data.
+- [0584 — APIs Template Kit](projects/0584-api-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0585 — APIs Starter Kit](projects/0585-api-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0586 — APIs Sync Tool](projects/0586-api-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0587 — APIs Backup Tool](projects/0587-api-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0588 — APIs Importer](projects/0588-api-importer/README.md) — Import data from common formats with validation and mapping.
+- [0589 — APIs Exporter](projects/0589-api-exporter/README.md) — Export data into portable formats with presets.
+- [0590 — APIs Annotator](projects/0590-api-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0591 — APIs Comparator](projects/0591-api-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0592 — APIs Recommender](projects/0592-api-recommender/README.md) — Recommend useful options from preferences and history.
+- [0593 — APIs Simulator](projects/0593-api-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0594 — APIs Sandbox](projects/0594-api-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0595 — APIs Audit Tool](projects/0595-api-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0596 — APIs Form Builder](projects/0596-api-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0597 — APIs Portal](projects/0597-api-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0598 — APIs Queue Manager](projects/0598-api-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0599 — APIs Batch Processor](projects/0599-api-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0600 — APIs Insight Feed](projects/0600-api-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## CLI Tools
+
+- [0601 — CLI Tools Dashboard](projects/0601-cli-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0602 — CLI Tools Tracker](projects/0602-cli-tracker/README.md) — Track activity, status, history and trends.
+- [0603 — CLI Tools Assistant](projects/0603-cli-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0604 — CLI Tools Manager](projects/0604-cli-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0605 — CLI Tools Analyzer](projects/0605-cli-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0606 — CLI Tools Generator](projects/0606-cli-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0607 — CLI Tools Monitor](projects/0607-cli-monitor/README.md) — Monitor changes and send useful alerts.
+- [0608 — CLI Tools Planner](projects/0608-cli-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0609 — CLI Tools Search Engine](projects/0609-cli-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0610 — CLI Tools Knowledge Base](projects/0610-cli-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0611 — CLI Tools Workflow Builder](projects/0611-cli-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0612 — CLI Tools API Service](projects/0612-cli-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0613 — CLI Tools CLI](projects/0613-cli-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0614 — CLI Tools Desktop App](projects/0614-cli-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0615 — CLI Tools Mobile Companion](projects/0615-cli-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0616 — CLI Tools Browser Extension](projects/0616-cli-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0617 — CLI Tools Notifier](projects/0617-cli-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0618 — CLI Tools Scheduler](projects/0618-cli-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0619 — CLI Tools Converter](projects/0619-cli-converter/README.md) — Convert common formats safely with batch support.
+- [0620 — CLI Tools Cleaner](projects/0620-cli-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0621 — CLI Tools Organizer](projects/0621-cli-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0622 — CLI Tools Visualizer](projects/0622-cli-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0623 — CLI Tools Reporter](projects/0623-cli-reporter/README.md) — Build shareable reports from structured data.
+- [0624 — CLI Tools Template Kit](projects/0624-cli-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0625 — CLI Tools Starter Kit](projects/0625-cli-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0626 — CLI Tools Sync Tool](projects/0626-cli-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0627 — CLI Tools Backup Tool](projects/0627-cli-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0628 — CLI Tools Importer](projects/0628-cli-importer/README.md) — Import data from common formats with validation and mapping.
+- [0629 — CLI Tools Exporter](projects/0629-cli-exporter/README.md) — Export data into portable formats with presets.
+- [0630 — CLI Tools Annotator](projects/0630-cli-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0631 — CLI Tools Comparator](projects/0631-cli-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0632 — CLI Tools Recommender](projects/0632-cli-recommender/README.md) — Recommend useful options from preferences and history.
+- [0633 — CLI Tools Simulator](projects/0633-cli-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0634 — CLI Tools Sandbox](projects/0634-cli-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0635 — CLI Tools Audit Tool](projects/0635-cli-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0636 — CLI Tools Form Builder](projects/0636-cli-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0637 — CLI Tools Portal](projects/0637-cli-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0638 — CLI Tools Queue Manager](projects/0638-cli-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0639 — CLI Tools Batch Processor](projects/0639-cli-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0640 — CLI Tools Insight Feed](projects/0640-cli-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Mobile Apps
+
+- [0641 — Mobile Apps Dashboard](projects/0641-mobile-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0642 — Mobile Apps Tracker](projects/0642-mobile-tracker/README.md) — Track activity, status, history and trends.
+- [0643 — Mobile Apps Assistant](projects/0643-mobile-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0644 — Mobile Apps Manager](projects/0644-mobile-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0645 — Mobile Apps Analyzer](projects/0645-mobile-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0646 — Mobile Apps Generator](projects/0646-mobile-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0647 — Mobile Apps Monitor](projects/0647-mobile-monitor/README.md) — Monitor changes and send useful alerts.
+- [0648 — Mobile Apps Planner](projects/0648-mobile-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0649 — Mobile Apps Search Engine](projects/0649-mobile-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0650 — Mobile Apps Knowledge Base](projects/0650-mobile-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0651 — Mobile Apps Workflow Builder](projects/0651-mobile-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0652 — Mobile Apps API Service](projects/0652-mobile-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0653 — Mobile Apps CLI](projects/0653-mobile-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0654 — Mobile Apps Desktop App](projects/0654-mobile-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0655 — Mobile Apps Mobile Companion](projects/0655-mobile-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0656 — Mobile Apps Browser Extension](projects/0656-mobile-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0657 — Mobile Apps Notifier](projects/0657-mobile-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0658 — Mobile Apps Scheduler](projects/0658-mobile-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0659 — Mobile Apps Converter](projects/0659-mobile-converter/README.md) — Convert common formats safely with batch support.
+- [0660 — Mobile Apps Cleaner](projects/0660-mobile-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0661 — Mobile Apps Organizer](projects/0661-mobile-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0662 — Mobile Apps Visualizer](projects/0662-mobile-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0663 — Mobile Apps Reporter](projects/0663-mobile-reporter/README.md) — Build shareable reports from structured data.
+- [0664 — Mobile Apps Template Kit](projects/0664-mobile-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0665 — Mobile Apps Starter Kit](projects/0665-mobile-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0666 — Mobile Apps Sync Tool](projects/0666-mobile-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0667 — Mobile Apps Backup Tool](projects/0667-mobile-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0668 — Mobile Apps Importer](projects/0668-mobile-importer/README.md) — Import data from common formats with validation and mapping.
+- [0669 — Mobile Apps Exporter](projects/0669-mobile-exporter/README.md) — Export data into portable formats with presets.
+- [0670 — Mobile Apps Annotator](projects/0670-mobile-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0671 — Mobile Apps Comparator](projects/0671-mobile-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0672 — Mobile Apps Recommender](projects/0672-mobile-recommender/README.md) — Recommend useful options from preferences and history.
+- [0673 — Mobile Apps Simulator](projects/0673-mobile-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0674 — Mobile Apps Sandbox](projects/0674-mobile-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0675 — Mobile Apps Audit Tool](projects/0675-mobile-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0676 — Mobile Apps Form Builder](projects/0676-mobile-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0677 — Mobile Apps Portal](projects/0677-mobile-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0678 — Mobile Apps Queue Manager](projects/0678-mobile-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0679 — Mobile Apps Batch Processor](projects/0679-mobile-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0680 — Mobile Apps Insight Feed](projects/0680-mobile-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Browser Extensions
+
+- [0681 — Browser Extensions Dashboard](projects/0681-browser-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0682 — Browser Extensions Tracker](projects/0682-browser-tracker/README.md) — Track activity, status, history and trends.
+- [0683 — Browser Extensions Assistant](projects/0683-browser-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0684 — Browser Extensions Manager](projects/0684-browser-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0685 — Browser Extensions Analyzer](projects/0685-browser-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0686 — Browser Extensions Generator](projects/0686-browser-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0687 — Browser Extensions Monitor](projects/0687-browser-monitor/README.md) — Monitor changes and send useful alerts.
+- [0688 — Browser Extensions Planner](projects/0688-browser-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0689 — Browser Extensions Search Engine](projects/0689-browser-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0690 — Browser Extensions Knowledge Base](projects/0690-browser-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0691 — Browser Extensions Workflow Builder](projects/0691-browser-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0692 — Browser Extensions API Service](projects/0692-browser-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0693 — Browser Extensions CLI](projects/0693-browser-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0694 — Browser Extensions Desktop App](projects/0694-browser-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0695 — Browser Extensions Mobile Companion](projects/0695-browser-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0696 — Browser Extensions Browser Extension](projects/0696-browser-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0697 — Browser Extensions Notifier](projects/0697-browser-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0698 — Browser Extensions Scheduler](projects/0698-browser-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0699 — Browser Extensions Converter](projects/0699-browser-converter/README.md) — Convert common formats safely with batch support.
+- [0700 — Browser Extensions Cleaner](projects/0700-browser-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0701 — Browser Extensions Organizer](projects/0701-browser-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0702 — Browser Extensions Visualizer](projects/0702-browser-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0703 — Browser Extensions Reporter](projects/0703-browser-reporter/README.md) — Build shareable reports from structured data.
+- [0704 — Browser Extensions Template Kit](projects/0704-browser-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0705 — Browser Extensions Starter Kit](projects/0705-browser-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0706 — Browser Extensions Sync Tool](projects/0706-browser-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0707 — Browser Extensions Backup Tool](projects/0707-browser-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0708 — Browser Extensions Importer](projects/0708-browser-importer/README.md) — Import data from common formats with validation and mapping.
+- [0709 — Browser Extensions Exporter](projects/0709-browser-exporter/README.md) — Export data into portable formats with presets.
+- [0710 — Browser Extensions Annotator](projects/0710-browser-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0711 — Browser Extensions Comparator](projects/0711-browser-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0712 — Browser Extensions Recommender](projects/0712-browser-recommender/README.md) — Recommend useful options from preferences and history.
+- [0713 — Browser Extensions Simulator](projects/0713-browser-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0714 — Browser Extensions Sandbox](projects/0714-browser-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0715 — Browser Extensions Audit Tool](projects/0715-browser-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0716 — Browser Extensions Form Builder](projects/0716-browser-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0717 — Browser Extensions Portal](projects/0717-browser-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0718 — Browser Extensions Queue Manager](projects/0718-browser-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0719 — Browser Extensions Batch Processor](projects/0719-browser-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0720 — Browser Extensions Insight Feed](projects/0720-browser-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## 3D & WebGL
+
+- [0721 — 3D & WebGL Dashboard](projects/0721-3d-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0722 — 3D & WebGL Tracker](projects/0722-3d-tracker/README.md) — Track activity, status, history and trends.
+- [0723 — 3D & WebGL Assistant](projects/0723-3d-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0724 — 3D & WebGL Manager](projects/0724-3d-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0725 — 3D & WebGL Analyzer](projects/0725-3d-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0726 — 3D & WebGL Generator](projects/0726-3d-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0727 — 3D & WebGL Monitor](projects/0727-3d-monitor/README.md) — Monitor changes and send useful alerts.
+- [0728 — 3D & WebGL Planner](projects/0728-3d-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0729 — 3D & WebGL Search Engine](projects/0729-3d-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0730 — 3D & WebGL Knowledge Base](projects/0730-3d-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0731 — 3D & WebGL Workflow Builder](projects/0731-3d-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0732 — 3D & WebGL API Service](projects/0732-3d-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0733 — 3D & WebGL CLI](projects/0733-3d-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0734 — 3D & WebGL Desktop App](projects/0734-3d-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0735 — 3D & WebGL Mobile Companion](projects/0735-3d-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0736 — 3D & WebGL Browser Extension](projects/0736-3d-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0737 — 3D & WebGL Notifier](projects/0737-3d-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0738 — 3D & WebGL Scheduler](projects/0738-3d-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0739 — 3D & WebGL Converter](projects/0739-3d-converter/README.md) — Convert common formats safely with batch support.
+- [0740 — 3D & WebGL Cleaner](projects/0740-3d-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0741 — 3D & WebGL Organizer](projects/0741-3d-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0742 — 3D & WebGL Visualizer](projects/0742-3d-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0743 — 3D & WebGL Reporter](projects/0743-3d-reporter/README.md) — Build shareable reports from structured data.
+- [0744 — 3D & WebGL Template Kit](projects/0744-3d-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0745 — 3D & WebGL Starter Kit](projects/0745-3d-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0746 — 3D & WebGL Sync Tool](projects/0746-3d-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0747 — 3D & WebGL Backup Tool](projects/0747-3d-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0748 — 3D & WebGL Importer](projects/0748-3d-importer/README.md) — Import data from common formats with validation and mapping.
+- [0749 — 3D & WebGL Exporter](projects/0749-3d-exporter/README.md) — Export data into portable formats with presets.
+- [0750 — 3D & WebGL Annotator](projects/0750-3d-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0751 — 3D & WebGL Comparator](projects/0751-3d-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0752 — 3D & WebGL Recommender](projects/0752-3d-recommender/README.md) — Recommend useful options from preferences and history.
+- [0753 — 3D & WebGL Simulator](projects/0753-3d-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0754 — 3D & WebGL Sandbox](projects/0754-3d-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0755 — 3D & WebGL Audit Tool](projects/0755-3d-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0756 — 3D & WebGL Form Builder](projects/0756-3d-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0757 — 3D & WebGL Portal](projects/0757-3d-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0758 — 3D & WebGL Queue Manager](projects/0758-3d-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0759 — 3D & WebGL Batch Processor](projects/0759-3d-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0760 — 3D & WebGL Insight Feed](projects/0760-3d-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Gaming
+
+- [0761 — Gaming Dashboard](projects/0761-gaming-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0762 — Gaming Tracker](projects/0762-gaming-tracker/README.md) — Track activity, status, history and trends.
+- [0763 — Gaming Assistant](projects/0763-gaming-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0764 — Gaming Manager](projects/0764-gaming-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0765 — Gaming Analyzer](projects/0765-gaming-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0766 — Gaming Generator](projects/0766-gaming-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0767 — Gaming Monitor](projects/0767-gaming-monitor/README.md) — Monitor changes and send useful alerts.
+- [0768 — Gaming Planner](projects/0768-gaming-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0769 — Gaming Search Engine](projects/0769-gaming-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0770 — Gaming Knowledge Base](projects/0770-gaming-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0771 — Gaming Workflow Builder](projects/0771-gaming-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0772 — Gaming API Service](projects/0772-gaming-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0773 — Gaming CLI](projects/0773-gaming-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0774 — Gaming Desktop App](projects/0774-gaming-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0775 — Gaming Mobile Companion](projects/0775-gaming-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0776 — Gaming Browser Extension](projects/0776-gaming-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0777 — Gaming Notifier](projects/0777-gaming-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0778 — Gaming Scheduler](projects/0778-gaming-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0779 — Gaming Converter](projects/0779-gaming-converter/README.md) — Convert common formats safely with batch support.
+- [0780 — Gaming Cleaner](projects/0780-gaming-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0781 — Gaming Organizer](projects/0781-gaming-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0782 — Gaming Visualizer](projects/0782-gaming-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0783 — Gaming Reporter](projects/0783-gaming-reporter/README.md) — Build shareable reports from structured data.
+- [0784 — Gaming Template Kit](projects/0784-gaming-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0785 — Gaming Starter Kit](projects/0785-gaming-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0786 — Gaming Sync Tool](projects/0786-gaming-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0787 — Gaming Backup Tool](projects/0787-gaming-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0788 — Gaming Importer](projects/0788-gaming-importer/README.md) — Import data from common formats with validation and mapping.
+- [0789 — Gaming Exporter](projects/0789-gaming-exporter/README.md) — Export data into portable formats with presets.
+- [0790 — Gaming Annotator](projects/0790-gaming-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0791 — Gaming Comparator](projects/0791-gaming-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0792 — Gaming Recommender](projects/0792-gaming-recommender/README.md) — Recommend useful options from preferences and history.
+- [0793 — Gaming Simulator](projects/0793-gaming-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0794 — Gaming Sandbox](projects/0794-gaming-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0795 — Gaming Audit Tool](projects/0795-gaming-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0796 — Gaming Form Builder](projects/0796-gaming-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0797 — Gaming Portal](projects/0797-gaming-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0798 — Gaming Queue Manager](projects/0798-gaming-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0799 — Gaming Batch Processor](projects/0799-gaming-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0800 — Gaming Insight Feed](projects/0800-gaming-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## File Utilities
+
+- [0801 — File Utilities Dashboard](projects/0801-files-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0802 — File Utilities Tracker](projects/0802-files-tracker/README.md) — Track activity, status, history and trends.
+- [0803 — File Utilities Assistant](projects/0803-files-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0804 — File Utilities Manager](projects/0804-files-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0805 — File Utilities Analyzer](projects/0805-files-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0806 — File Utilities Generator](projects/0806-files-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0807 — File Utilities Monitor](projects/0807-files-monitor/README.md) — Monitor changes and send useful alerts.
+- [0808 — File Utilities Planner](projects/0808-files-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0809 — File Utilities Search Engine](projects/0809-files-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0810 — File Utilities Knowledge Base](projects/0810-files-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0811 — File Utilities Workflow Builder](projects/0811-files-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0812 — File Utilities API Service](projects/0812-files-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0813 — File Utilities CLI](projects/0813-files-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0814 — File Utilities Desktop App](projects/0814-files-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0815 — File Utilities Mobile Companion](projects/0815-files-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0816 — File Utilities Browser Extension](projects/0816-files-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0817 — File Utilities Notifier](projects/0817-files-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0818 — File Utilities Scheduler](projects/0818-files-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0819 — File Utilities Converter](projects/0819-files-converter/README.md) — Convert common formats safely with batch support.
+- [0820 — File Utilities Cleaner](projects/0820-files-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0821 — File Utilities Organizer](projects/0821-files-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0822 — File Utilities Visualizer](projects/0822-files-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0823 — File Utilities Reporter](projects/0823-files-reporter/README.md) — Build shareable reports from structured data.
+- [0824 — File Utilities Template Kit](projects/0824-files-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0825 — File Utilities Starter Kit](projects/0825-files-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0826 — File Utilities Sync Tool](projects/0826-files-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0827 — File Utilities Backup Tool](projects/0827-files-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0828 — File Utilities Importer](projects/0828-files-importer/README.md) — Import data from common formats with validation and mapping.
+- [0829 — File Utilities Exporter](projects/0829-files-exporter/README.md) — Export data into portable formats with presets.
+- [0830 — File Utilities Annotator](projects/0830-files-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0831 — File Utilities Comparator](projects/0831-files-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0832 — File Utilities Recommender](projects/0832-files-recommender/README.md) — Recommend useful options from preferences and history.
+- [0833 — File Utilities Simulator](projects/0833-files-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0834 — File Utilities Sandbox](projects/0834-files-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0835 — File Utilities Audit Tool](projects/0835-files-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0836 — File Utilities Form Builder](projects/0836-files-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0837 — File Utilities Portal](projects/0837-files-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0838 — File Utilities Queue Manager](projects/0838-files-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0839 — File Utilities Batch Processor](projects/0839-files-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0840 — File Utilities Insight Feed](projects/0840-files-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Media Tools
+
+- [0841 — Media Tools Dashboard](projects/0841-media-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0842 — Media Tools Tracker](projects/0842-media-tracker/README.md) — Track activity, status, history and trends.
+- [0843 — Media Tools Assistant](projects/0843-media-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0844 — Media Tools Manager](projects/0844-media-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0845 — Media Tools Analyzer](projects/0845-media-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0846 — Media Tools Generator](projects/0846-media-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0847 — Media Tools Monitor](projects/0847-media-monitor/README.md) — Monitor changes and send useful alerts.
+- [0848 — Media Tools Planner](projects/0848-media-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0849 — Media Tools Search Engine](projects/0849-media-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0850 — Media Tools Knowledge Base](projects/0850-media-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0851 — Media Tools Workflow Builder](projects/0851-media-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0852 — Media Tools API Service](projects/0852-media-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0853 — Media Tools CLI](projects/0853-media-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0854 — Media Tools Desktop App](projects/0854-media-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0855 — Media Tools Mobile Companion](projects/0855-media-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0856 — Media Tools Browser Extension](projects/0856-media-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0857 — Media Tools Notifier](projects/0857-media-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0858 — Media Tools Scheduler](projects/0858-media-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0859 — Media Tools Converter](projects/0859-media-converter/README.md) — Convert common formats safely with batch support.
+- [0860 — Media Tools Cleaner](projects/0860-media-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0861 — Media Tools Organizer](projects/0861-media-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0862 — Media Tools Visualizer](projects/0862-media-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0863 — Media Tools Reporter](projects/0863-media-reporter/README.md) — Build shareable reports from structured data.
+- [0864 — Media Tools Template Kit](projects/0864-media-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0865 — Media Tools Starter Kit](projects/0865-media-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0866 — Media Tools Sync Tool](projects/0866-media-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0867 — Media Tools Backup Tool](projects/0867-media-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0868 — Media Tools Importer](projects/0868-media-importer/README.md) — Import data from common formats with validation and mapping.
+- [0869 — Media Tools Exporter](projects/0869-media-exporter/README.md) — Export data into portable formats with presets.
+- [0870 — Media Tools Annotator](projects/0870-media-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0871 — Media Tools Comparator](projects/0871-media-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0872 — Media Tools Recommender](projects/0872-media-recommender/README.md) — Recommend useful options from preferences and history.
+- [0873 — Media Tools Simulator](projects/0873-media-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0874 — Media Tools Sandbox](projects/0874-media-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0875 — Media Tools Audit Tool](projects/0875-media-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0876 — Media Tools Form Builder](projects/0876-media-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0877 — Media Tools Portal](projects/0877-media-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0878 — Media Tools Queue Manager](projects/0878-media-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0879 — Media Tools Batch Processor](projects/0879-media-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0880 — Media Tools Insight Feed](projects/0880-media-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Team Collaboration
+
+- [0881 — Team Collaboration Dashboard](projects/0881-teams-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0882 — Team Collaboration Tracker](projects/0882-teams-tracker/README.md) — Track activity, status, history and trends.
+- [0883 — Team Collaboration Assistant](projects/0883-teams-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0884 — Team Collaboration Manager](projects/0884-teams-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0885 — Team Collaboration Analyzer](projects/0885-teams-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0886 — Team Collaboration Generator](projects/0886-teams-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0887 — Team Collaboration Monitor](projects/0887-teams-monitor/README.md) — Monitor changes and send useful alerts.
+- [0888 — Team Collaboration Planner](projects/0888-teams-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0889 — Team Collaboration Search Engine](projects/0889-teams-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0890 — Team Collaboration Knowledge Base](projects/0890-teams-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0891 — Team Collaboration Workflow Builder](projects/0891-teams-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0892 — Team Collaboration API Service](projects/0892-teams-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0893 — Team Collaboration CLI](projects/0893-teams-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0894 — Team Collaboration Desktop App](projects/0894-teams-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0895 — Team Collaboration Mobile Companion](projects/0895-teams-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0896 — Team Collaboration Browser Extension](projects/0896-teams-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0897 — Team Collaboration Notifier](projects/0897-teams-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0898 — Team Collaboration Scheduler](projects/0898-teams-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0899 — Team Collaboration Converter](projects/0899-teams-converter/README.md) — Convert common formats safely with batch support.
+- [0900 — Team Collaboration Cleaner](projects/0900-teams-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0901 — Team Collaboration Organizer](projects/0901-teams-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0902 — Team Collaboration Visualizer](projects/0902-teams-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0903 — Team Collaboration Reporter](projects/0903-teams-reporter/README.md) — Build shareable reports from structured data.
+- [0904 — Team Collaboration Template Kit](projects/0904-teams-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0905 — Team Collaboration Starter Kit](projects/0905-teams-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0906 — Team Collaboration Sync Tool](projects/0906-teams-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0907 — Team Collaboration Backup Tool](projects/0907-teams-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0908 — Team Collaboration Importer](projects/0908-teams-importer/README.md) — Import data from common formats with validation and mapping.
+- [0909 — Team Collaboration Exporter](projects/0909-teams-exporter/README.md) — Export data into portable formats with presets.
+- [0910 — Team Collaboration Annotator](projects/0910-teams-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0911 — Team Collaboration Comparator](projects/0911-teams-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0912 — Team Collaboration Recommender](projects/0912-teams-recommender/README.md) — Recommend useful options from preferences and history.
+- [0913 — Team Collaboration Simulator](projects/0913-teams-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0914 — Team Collaboration Sandbox](projects/0914-teams-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0915 — Team Collaboration Audit Tool](projects/0915-teams-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0916 — Team Collaboration Form Builder](projects/0916-teams-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0917 — Team Collaboration Portal](projects/0917-teams-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0918 — Team Collaboration Queue Manager](projects/0918-teams-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0919 — Team Collaboration Batch Processor](projects/0919-teams-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0920 — Team Collaboration Insight Feed](projects/0920-teams-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Small Business
+
+- [0921 — Small Business Dashboard](projects/0921-business-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0922 — Small Business Tracker](projects/0922-business-tracker/README.md) — Track activity, status, history and trends.
+- [0923 — Small Business Assistant](projects/0923-business-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0924 — Small Business Manager](projects/0924-business-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0925 — Small Business Analyzer](projects/0925-business-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0926 — Small Business Generator](projects/0926-business-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0927 — Small Business Monitor](projects/0927-business-monitor/README.md) — Monitor changes and send useful alerts.
+- [0928 — Small Business Planner](projects/0928-business-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0929 — Small Business Search Engine](projects/0929-business-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0930 — Small Business Knowledge Base](projects/0930-business-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0931 — Small Business Workflow Builder](projects/0931-business-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0932 — Small Business API Service](projects/0932-business-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0933 — Small Business CLI](projects/0933-business-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0934 — Small Business Desktop App](projects/0934-business-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0935 — Small Business Mobile Companion](projects/0935-business-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0936 — Small Business Browser Extension](projects/0936-business-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0937 — Small Business Notifier](projects/0937-business-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0938 — Small Business Scheduler](projects/0938-business-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0939 — Small Business Converter](projects/0939-business-converter/README.md) — Convert common formats safely with batch support.
+- [0940 — Small Business Cleaner](projects/0940-business-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0941 — Small Business Organizer](projects/0941-business-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0942 — Small Business Visualizer](projects/0942-business-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0943 — Small Business Reporter](projects/0943-business-reporter/README.md) — Build shareable reports from structured data.
+- [0944 — Small Business Template Kit](projects/0944-business-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0945 — Small Business Starter Kit](projects/0945-business-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0946 — Small Business Sync Tool](projects/0946-business-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0947 — Small Business Backup Tool](projects/0947-business-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0948 — Small Business Importer](projects/0948-business-importer/README.md) — Import data from common formats with validation and mapping.
+- [0949 — Small Business Exporter](projects/0949-business-exporter/README.md) — Export data into portable formats with presets.
+- [0950 — Small Business Annotator](projects/0950-business-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0951 — Small Business Comparator](projects/0951-business-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0952 — Small Business Recommender](projects/0952-business-recommender/README.md) — Recommend useful options from preferences and history.
+- [0953 — Small Business Simulator](projects/0953-business-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0954 — Small Business Sandbox](projects/0954-business-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0955 — Small Business Audit Tool](projects/0955-business-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0956 — Small Business Form Builder](projects/0956-business-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0957 — Small Business Portal](projects/0957-business-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0958 — Small Business Queue Manager](projects/0958-business-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0959 — Small Business Batch Processor](projects/0959-business-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [0960 — Small Business Insight Feed](projects/0960-business-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
+## Research
+
+- [0961 — Research Dashboard](projects/0961-research-dashboard/README.md) — Interactive dashboard with filters, saved views and export.
+- [0962 — Research Tracker](projects/0962-research-tracker/README.md) — Track activity, status, history and trends.
+- [0963 — Research Assistant](projects/0963-research-assistant/README.md) — Context-aware assistant with searchable history and actions.
+- [0964 — Research Manager](projects/0964-research-manager/README.md) — Organize records, workflows, permissions and lifecycle.
+- [0965 — Research Analyzer](projects/0965-research-analyzer/README.md) — Analyze inputs, surface patterns and generate reports.
+- [0966 — Research Generator](projects/0966-research-generator/README.md) — Generate reusable assets from configurable inputs.
+- [0967 — Research Monitor](projects/0967-research-monitor/README.md) — Monitor changes and send useful alerts.
+- [0968 — Research Planner](projects/0968-research-planner/README.md) — Plan tasks, timelines, resources and milestones.
+- [0969 — Research Search Engine](projects/0969-research-search/README.md) — Fast search with ranking, filters and saved queries.
+- [0970 — Research Knowledge Base](projects/0970-research-knowledge-base/README.md) — Structured knowledge base with tagging and full-text search.
+- [0971 — Research Workflow Builder](projects/0971-research-workflow-builder/README.md) — Visual or config-driven workflows with reusable steps.
+- [0972 — Research API Service](projects/0972-research-api-service/README.md) — Clean api with validation, auth, logging and docs.
+- [0973 — Research CLI](projects/0973-research-cli/README.md) — Fast command-line workflow with sensible defaults and scripting support.
+- [0974 — Research Desktop App](projects/0974-research-desktop-app/README.md) — Cross-platform desktop workflow with local persistence.
+- [0975 — Research Mobile Companion](projects/0975-research-mobile-companion/README.md) — Mobile-first companion for quick capture and actions.
+- [0976 — Research Browser Extension](projects/0976-research-browser-extension/README.md) — Browser extension that reduces repetitive web work.
+- [0977 — Research Notifier](projects/0977-research-notifier/README.md) — Smart notifications with rules, quiet hours and digests.
+- [0978 — Research Scheduler](projects/0978-research-scheduler/README.md) — Schedule jobs, reminders and recurring actions.
+- [0979 — Research Converter](projects/0979-research-converter/README.md) — Convert common formats safely with batch support.
+- [0980 — Research Cleaner](projects/0980-research-cleaner/README.md) — Find clutter, duplicates or stale items and clean them safely.
+- [0981 — Research Organizer](projects/0981-research-organizer/README.md) — Organize items automatically using rules and metadata.
+- [0982 — Research Visualizer](projects/0982-research-visualizer/README.md) — Turn complex information into clear interactive visualizations.
+- [0983 — Research Reporter](projects/0983-research-reporter/README.md) — Build shareable reports from structured data.
+- [0984 — Research Template Kit](projects/0984-research-template-kit/README.md) — Production-ready templates for a common workflow.
+- [0985 — Research Starter Kit](projects/0985-research-starter-kit/README.md) — Opinionated starter with auth, tests and deployment.
+- [0986 — Research Sync Tool](projects/0986-research-sync-tool/README.md) — Reliable sync between sources with conflict handling.
+- [0987 — Research Backup Tool](projects/0987-research-backup-tool/README.md) — Versioned backups with restore and verification.
+- [0988 — Research Importer](projects/0988-research-importer/README.md) — Import data from common formats with validation and mapping.
+- [0989 — Research Exporter](projects/0989-research-exporter/README.md) — Export data into portable formats with presets.
+- [0990 — Research Annotator](projects/0990-research-annotator/README.md) — Annotate, review and label items collaboratively.
+- [0991 — Research Comparator](projects/0991-research-comparator/README.md) — Compare options side by side using configurable criteria.
+- [0992 — Research Recommender](projects/0992-research-recommender/README.md) — Recommend useful options from preferences and history.
+- [0993 — Research Simulator](projects/0993-research-simulator/README.md) — Simulate scenarios and expose adjustable parameters.
+- [0994 — Research Sandbox](projects/0994-research-sandbox/README.md) — Safe playground for testing ideas and configurations.
+- [0995 — Research Audit Tool](projects/0995-research-audit-tool/README.md) — Audit configurations, content or activity and flag issues.
+- [0996 — Research Form Builder](projects/0996-research-form-builder/README.md) — Build forms with validation, logic and exportable responses.
+- [0997 — Research Portal](projects/0997-research-portal/README.md) — Self-service portal with profiles, requests and status tracking.
+- [0998 — Research Queue Manager](projects/0998-research-queue-manager/README.md) — Prioritize work queues with ownership and sla tracking.
+- [0999 — Research Batch Processor](projects/0999-research-batch-processor/README.md) — Process large batches with retries, progress and logs.
+- [1000 — Research Insight Feed](projects/1000-research-insight-feed/README.md) — Ranked feed of useful updates, summaries and trends.
+
